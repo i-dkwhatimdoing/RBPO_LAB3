@@ -1,0 +1,5 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  main.cpp
+D:\VisualStudio\Derictories\TEST\Lab5\main.cpp(15,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\VisualStudio\Derictories\TEST\Lab5\main.cpp(15,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab5.vcxproj -> D:\VisualStudio\Derictories\TEST\bin\Debug\x64\Lab5.exe

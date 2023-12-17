@@ -1,0 +1,8 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  Math.ixx
+  ComplexTest.cpp
+D:\VisualStudio\Derictories\TEST\MathLibTests\ComplexTest.cpp(4,12): warning C5050: Возможная несовместимая среда при импорте модуля "Math": _GUARDOVERFLOW_CRT_ALLOCATORS=1 is defined in module command line and not in current command line
+  RationalTest.cpp
+D:\VisualStudio\Derictories\TEST\MathLibTests\RationalTest.cpp(4,12): warning C5050: Возможная несовместимая среда при импорте модуля "Math": _GUARDOVERFLOW_CRT_ALLOCATORS=1 is defined in module command line and not in current command line
+  Создание кода...
+  MathLibTests.vcxproj -> D:\VisualStudio\Derictories\TEST\bin\Debug\x64\MathLibTests.exe
